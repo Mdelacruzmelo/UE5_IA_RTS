@@ -1,6 +1,6 @@
 # Tarea IA 1 - RTS
 
-Este es un ejercicio de movimiento con el cual se controla varios personajes al estilo Real Time Strategy
+Este es un ejercicio de movimiento el cual consiste en controlar varios personajes al estilo Real Time Strategy
 
 ### Instalación
 
